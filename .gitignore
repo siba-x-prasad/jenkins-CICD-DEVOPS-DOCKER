@@ -1,0 +1,57 @@
+# -----------------------
+# Global Ignores
+# -----------------------
+.idea/
+*.iml
+*.class
+*.log
+.DS_Store
+
+# -----------------------
+# Python Ignores
+# -----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+env/
+venv/
+ENV/
+.venv/
+build/
+dist/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+*.env
+*.venv
+
+# -----------------------
+# Java Ignores
+# -----------------------
+target/
+out/
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+.settings/
+.classpath
+.project
+
+# Gradle
+.gradle/
+build/
+
+# -----------------------
+# JavaScript / Node.js Ignores
+# -----------------------
+node_modules/
+npm-d
